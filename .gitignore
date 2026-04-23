@@ -19,10 +19,10 @@ npm-*
 /locale
 
 # Other generated source
-/src/generated
+# /src/generated — tracked: stub committed so Railway doesn't need to run prepublish
 
 # Downloaded during "npm install"
-/static/microbit
+# /static/microbit — tracked: stub committed so Railway doesn't need to run prepublish
 
 # for act
 .secrets
